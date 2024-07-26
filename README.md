@@ -13,6 +13,9 @@ To run this script, you need to have the following libraries installed:
 
 You can install these libraries using `pip`:
 
+
+![2024-07-25](https://github.com/user-attachments/assets/65842dd1-654f-4741-889c-eddaf8695741)
+
 ```bash
 pip install numpy matplotlib
 ```
